@@ -1,2 +1,3 @@
-# repoTp0
-creado el 27/04
+Nombre: Mateo Arias Seisdedos
+Alias en GitHub: MAmateoarias
+
